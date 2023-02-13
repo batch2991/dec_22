@@ -1,0 +1,16 @@
+<suite name="Ebay">
+  <test name="functionalTesting_firefox">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+       <class name="base.Base"/>
+       <class name="testing.FunctionalTest"/>
+    </classes>
+  </test>
+  <test name="functionalTesting_chrome">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+   		 <class name="base.Base"/>
+       <class name="testing.FunctionalTest"/>
+    </classes>
+  </test>
+</suite>
