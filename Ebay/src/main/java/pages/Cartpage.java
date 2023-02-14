@@ -11,5 +11,9 @@ public class Cartpage
 	{
 		
 	}
+	public void deleteitemincart()
+	{
+		
+	}
 
 }
