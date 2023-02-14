@@ -9,7 +9,7 @@ public class Cartpage
 	}
 	public void verifyproducts()
 	{
-		
+		System.out.println("verify the products");
 	}
 	public void deleteitemincart()
 	{
