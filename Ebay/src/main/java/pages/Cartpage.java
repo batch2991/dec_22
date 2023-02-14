@@ -13,7 +13,7 @@ public class Cartpage
 	}
 	public void deleteitemincart()
 	{
-		
+		System.out.println("delete the product in cart");
 	}
 
 }
